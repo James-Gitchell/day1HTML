@@ -1,0 +1,32 @@
+
+/* hit ctrl forward slash to auto comment */
+
+* {   border: 2px solid red;
+}
+html{
+    --header-colors: #c7e8f3;
+    --text-color: #41393e;
+    --background-color:#8e4162;
+    --I-could-name-this-var-anything: helvetica;
+}
+
+h1, h2 {
+    background-color: var(--background-color);
+}
+nav a {
+    color:#5c0d2d;
+}
+
+h2 {
+    color: chocolate;
+}
+#stack {
+    background-color: deeppink;
+}
+
+ ul {
+    list-style:;
+ }
+ .our-software{
+
+ }
